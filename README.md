@@ -1,5 +1,4 @@
-Here's a draft for your GitHub README:
-Pantry Manager
+##Pantry Manager
 
 Pantry Manager is a simple CRUD (Create, Read, Update, Delete) application designed to help you manage your pantry items efficiently. This application is built using modern web technologies, ensuring a smooth and responsive user experience.
 Tech Stack
